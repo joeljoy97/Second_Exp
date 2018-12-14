@@ -6,12 +6,12 @@ var second_div=document.getElementById("second_div");
 
 
 
-// a.onclick=function () {
-//     // alert("progress");
-//     // body[0].classList.add("sidebarOpen");
-//     document.body.classList.toggle("sidebarOpen");
-//
-// }
+a.onclick=function () {
+    // alert("progress");
+    // body[0].classList.add("sidebarOpen");
+    document.body.classList.toggle("sidebarOpen");
+
+}
 
 // a.onblur=function(){
 //     console.log("SDfsdf");
